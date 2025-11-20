@@ -7,8 +7,8 @@ Requirements:
 
 Usage:
 
-git clone https://github.com/anesbhd/opennebula-vagrant
-cd opennebula-vagrant
+git clone https://github.com/Anes-BHD/OpenNebula.git
+cd OpenNebula
 
 vagrant up --provision
 
