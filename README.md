@@ -8,6 +8,7 @@ Requirements:
 Usage:
 
 git clone https://github.com/Anes-BHD/OpenNebula.git
+
 cd OpenNebula
 
 vagrant up --provision
@@ -15,6 +16,7 @@ vagrant up --provision
 #Passwords used
 --------grafana--------
 username: admin
+
 password: adminadmin
 
 --------opennebula--------
